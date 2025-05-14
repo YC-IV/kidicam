@@ -1,4 +1,6 @@
-# KidiCam - kid's intelligent camera
+# KidiCam - KIDs' Intelligent Camera
+
+## Motivation
 
 ## 3D model
 
