@@ -1,1 +1,1 @@
-# kidicam - kid's intelligent camera
+# KidiCam - kid's intelligent camera
