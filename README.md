@@ -1,5 +1,5 @@
 # KidiCam - KIDs' Intelligent Camera
-Expolore the world with photos and DidiCam.
+Let kids explore the world with camera and photos. If you have a spare phone and a 3D printer, this project is just fitted for making a smart camera for your kids.
 
 ![alt KidiCam](photo/front.jpg "Front")
 
