@@ -16,11 +16,10 @@ Let you kids take photos and share the things intertest them and know how to des
 When kids are wondering what the things are, like names or pronunciations, they can use Google Lens to take photos and then get all the information immediately.
 
 ## 3D model
-The whole frame consists of two parts, the main (grip and shutter) and the lower parts.
-+ Main part: [link](/model/zenfone8_cameraCase_v1p2-Body_right_handler.stl)
-+ Lower part: [link](/model/zenfone8_cameraCase_v1p2-Body_left_frame.stl)
+The whole frame consists of two parts: the main part (the grip and shutter socket) [link](/model/zenfone8_cameraCase_v1p2-Body_right_handler.stl) and the lower part [link](/model/zenfone8_cameraCase_v1p2-Body_left_frame.stl). 
+![alt 3D model](photo/model.png "3D Models")
 
-## Hardware
+## Hardware and accessories
 The 3D model is based on Asus Zenfone 8. And also needs the following accessories:
 + Bluetooth remote shutter: a stock Bluetooth shutter for mobile phone [link](https://www.momoshop.com.tw/TP/TP0001385/goodsDetail/TP00013850000727?categoryCode=4200700384&sourcePageType=4).
 + A steel ruler: a 15cm stainless steel ruler. The length, width and thickness are 16.5 13.5 and 0.65 cm respectively. This ruler connect the main and lower parts and enforces the overall rigidness.
