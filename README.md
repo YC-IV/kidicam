@@ -21,7 +21,10 @@ The whole frame consists of two parts, the main (grip and shutter) and the lower
 + Lower part: [link](/model/zenfone8_cameraCase_v1p2-Body_left_frame.stl)
 
 ## Hardware
-The 3D model is based on Asus Zenfone 8.
+The 3D model is based on Asus Zenfone 8. And also needs the following accessories:
++ Bluetooth remote shutter: a stock Bluetooth shutter for mobile phone [link](https://www.momoshop.com.tw/TP/TP0001385/goodsDetail/TP00013850000727?categoryCode=4200700384&sourcePageType=4).
++ A steel ruler: a 15cm stainless steel ruler. The length, width and thickness are 16.5 13.5 and 0.65 cm respectively. This ruler connect the main and lower parts and enforces the overall rigidness.
++ Screws: 5 round head screws.
 
 ## Buy me a coffee ☕︎
 https://buymeacoffee.com/kidicam
