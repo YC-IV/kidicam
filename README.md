@@ -12,7 +12,7 @@ The KidiCam project aims to provide children with a tool that is both educationa
 * Creative Expression: Encourage storytelling and description skills as children explain their photographs.
 
 ## 🛠️ Hardware and Accessories
-The 3D model is designed around the Asus Zenfone 8. And also needs the following accessories:
+The 3D model is designed around the Asus Zenfone 8 [[Specs]](https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-8/techspec/). And also needs the following accessories:
 * Bluetooth remote shutter: a stock Bluetooth shutter for mobile phone [[Specs]](https://www.momoshop.com.tw/TP/TP0001385/goodsDetail/TP00013850000727?categoryCode=4200700384&sourcePageType=4).
 * A steel ruler: the project uses a 15cm stainless steel ruler as a pin. The length, width and thickness are 16.5 mm, 13.5 mm and 0.65 cm respectively. This ruler aligns the main and lower parts and enforces the overall rigidness.
 * Screws: 5 round head screws. The diameter of head is 5 mm, and the diameter and length of the thread part are 3 mm and 11 mm respectively.
