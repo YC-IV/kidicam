@@ -30,5 +30,5 @@ The whole frame consists of two parts:
 4. Install Necessary Apps: Ensure Google Lens or similar apps are installed for object recognition.
 5. Start Exploring: Hand over the KidiCam to your child and let the adventure begin!
 
-## ☕ Buy Me a Coffee ☕︎
+## ☕ Buy Me a Coffee
 https://buymeacoffee.com/kidicam
