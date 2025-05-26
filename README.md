@@ -17,6 +17,9 @@ The 3D model is designed around the Asus Zenfone 8 [[Specs]](https://www.asus.co
 * A steel ruler: the project uses a 15cm stainless steel ruler as a pin. The length, width and thickness are 16.5 mm, 13.5 mm and 0.65 cm respectively. This ruler aligns the main and lower parts and enforces the overall rigidness.
 * Screws: 5 round head screws. The diameter of head is 5 mm, and the diameter and length of the thread part are 3 mm and 11 mm respectively.
 
+## ✏️ Build Your Own Camera UI
+To be update soon.
+
 ## 📁 3D Model
 The whole frame consists of two parts:
 * The main part (the grip and shutter socket) [[Download STL]](/model/zenfone8_cameraCase_v1p2-Body_right_handler.stl)
