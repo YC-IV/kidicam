@@ -1,29 +1,34 @@
-# KidiCam - KIDs' Intelligent Camera
-Let kids explore the world with camera and photos. If you have a spare phone and a 3D printer, this project is just fitted for making a smart camera for your kids.
+# 📸 KidiCam – KIDs' Intelligent Camera
+KidiCam is a DIY smart camera designed to inspire creativity and curiosity in children. By repurposing an old smartphone and utilizing 3D-printed components, you can create a kid-friendly camera that encourages exploration and learning.
 
 ![alt KidiCam](photo/front.jpg "Front")
 
-## Motivation
+## 🎯 Motivation
+The KidiCam project aims to provide children with a tool that is both educational and fun. The custom-designed grip is tailored for small hands, ensuring that even a 4-year-old can hold the camera comfortably and securely.
 
-The size of grip is also smaller and specially designed for younger kids. My 4+ year-old kid can easily and stably hold the phone.
-
-## Usage
-
-### Take photos and share ideas
-Let you kids take photos and share the things intertest them and know how to describe them.
-
-### Learn the new things
-When kids are wondering what the things are, like names or pronunciations, they can use Google Lens to take photos and then get all the information immediately.
-
-## 3D model
-The whole frame consists of two parts: the main part (the grip and shutter socket) [[link]](/model/zenfone8_cameraCase_v1p2-Body_right_handler.stl) and the lower part [[link]](/model/zenfone8_cameraCase_v1p2-Body_left_frame.stl). 
-![alt 3D model](photo/model.png "3D Models")
+## 🚀 Features
+* Capture & Share: Empower kids to take photos of their surroundings and share their perspectives.
+* Interactive Learning: Utilize Google Lens to identify objects, learn names, pronunciations, and gather information instantly.
+* Creative Expression: Encourage storytelling and description skills as children explain their photographs.
 
 ## Hardware and accessories
-The 3D model is based on Asus Zenfone 8. And also needs the following accessories:
-+ Bluetooth remote shutter: a stock Bluetooth shutter for mobile phone [[link]](https://www.momoshop.com.tw/TP/TP0001385/goodsDetail/TP00013850000727?categoryCode=4200700384&sourcePageType=4).
-+ A steel ruler: the project uses a 15cm stainless steel ruler as a pin. The length, width and thickness are 16.5 mm, 13.5 mm and 0.65 cm respectively. This ruler aligns the main and lower parts and enforces the overall rigidness.
-+ Screws: 5 round head screws. The diameter of head is 5 mm, and the diameter and length of the thread part are 3 mm and 11 mm respectively.
+The 3D model is designed around the Asus Zenfone 8. And also needs the following accessories:
+* Bluetooth remote shutter: a stock Bluetooth shutter for mobile phone [[link]](https://www.momoshop.com.tw/TP/TP0001385/goodsDetail/TP00013850000727?categoryCode=4200700384&sourcePageType=4).
+* A steel ruler: the project uses a 15cm stainless steel ruler as a pin. The length, width and thickness are 16.5 mm, 13.5 mm and 0.65 cm respectively. This ruler aligns the main and lower parts and enforces the overall rigidness.
+* Screws: 5 round head screws. The diameter of head is 5 mm, and the diameter and length of the thread part are 3 mm and 11 mm respectively.
+
+## 3D Model
+The whole frame consists of two parts:
+* The main part (the grip and shutter socket) [[Download STL]](/model/zenfone8_cameraCase_v1p2-Body_right_handler.stl)
+* The lower part [[Download STL]](/model/zenfone8_cameraCase_v1p2-Body_left_frame.stl)
+![alt 3D model](photo/model.png "3D Models")
+
+## 📚 Getting Started
+1. Print the 3D Components: Use the provided STL files to print the main grip and lower support.
+2. Assemble the Frame: Attach the printed parts to form the camera housing.
+3. Insert Smartphone: Place your smartphone into the assembled frame.
+4. Install Necessary Apps: Ensure Google Lens or similar apps are installed for object recognition.
+5. Start Exploring: Hand over the KidiCam to your child and let the adventure begin!
 
 ## Buy me a coffee ☕︎
 https://buymeacoffee.com/kidicam
