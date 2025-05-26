@@ -1,4 +1,7 @@
 # KidiCam - KIDs' Intelligent Camera
+Expolore the world with photos and DidiCam.
+
+![alt KidiCam](photo/front.jpg "Front")
 
 ## Motivation
 
