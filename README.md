@@ -10,6 +10,7 @@ The KidiCam project aims to provide children with a tool that is both educationa
 * Capture & Share: Empower kids to take photos of their surroundings and share their perspectives.
 * Interactive Learning: Utilize Google Lens to identify objects, learn names, pronunciations, and gather information instantly.
 * Creative Expression: Encourage storytelling and description skills as children explain their photographs.
+* Encouraging Focus and Patience: When your child uses KidiCam, they learn to slow down and pay attention to details—waiting for the right moment to take a photo, holding the camera steady, and thinking about what they see. These simple actions help build their ability to focus, be patient, and develop mindful observation skills—all important traits for learning and emotional growth.
 
 ## 🛠️ Hardware and Accessories
 The 3D model is designed around the Asus Zenfone 8 [[Specs]](https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-8/techspec/). And also needs the following accessories:
