@@ -19,6 +19,7 @@ The 3D model is designed around the Asus Zenfone 8 [[Specs]](https://www.asus.co
 * Screws: 5 round head screws. The diameter of head is 5 mm, and the diameter and length of the thread part are 3 mm and 11 mm respectively.
 
 ## ✏️ Build Your Own Camera UI
+![Camera UI](photo/camera_ui.jpg "Camera UI")
 To be updated soon.
 
 ## 📁 3D Model
